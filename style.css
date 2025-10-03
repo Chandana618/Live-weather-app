@@ -135,6 +135,12 @@ input{
 }
 .rowone{
     flex-wrap:wrap;
+    height:52vh;
+    justify-content:space-between
+}
+.extrametric{
+    width:50%;
+    height:20vh;
 }
 .rowtwo{
     flex-direction:column;
@@ -158,4 +164,5 @@ input{
     margin:auto;
     gap:15px;
 }
+
 }
